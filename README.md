@@ -368,26 +368,3 @@ echo $SSH_AUTH_SOCK
 id; uname -a; sudo -l; find / -perm -4000 -type f 2>/dev/null; getcap -r / 2>/dev/null; cat /etc/crontab
 ```
 
----
-
-# 🧠 Advanced Mindset
-
-Always think:
-
-1. Misconfiguration > Exploit
-2. Writable > Executable
-3. Environment variables
-4. Privileged scripts
-5. Credential reuse
-
----
-
-If you want, I can now generate:
-
-* 📁 A downloadable `.md` file
-* 📕 A printable PDF version
-* 🧨 An OSCP exam-focused version
-* 🧠 A CRTA-specific version for you
-* 🔥 A red-team professional edition
-
-Tell me what you want next 😈
