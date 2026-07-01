@@ -368,3 +368,10 @@ echo $SSH_AUTH_SOCK
 id; uname -a; sudo -l; find / -perm -4000 -type f 2>/dev/null; getcap -r / 2>/dev/null; cat /etc/crontab
 ```
 
+---
+
+# Concept & Technique Reference
+
+- [Privilege Escalation Concepts](privilege_escalation_concepts.md)
+- [Privilege Escalation Techniques](privilege_escalation_techniques.md)
+
